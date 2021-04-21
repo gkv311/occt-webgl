@@ -1,0 +1,7 @@
+repository
+gallery
+_site
+node_modules
+validation-report.json
+validation-status.json
+deploy.sh
